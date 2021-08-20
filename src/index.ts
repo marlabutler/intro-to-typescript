@@ -5,7 +5,7 @@ count = 10
 //count = "Justin"
 
 // Const's type is a literal
-const fname = "Justin"
+const fname = "Marla"
 
 // this makes a var of type any
 // let testing;
